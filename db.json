@@ -1,0 +1,37 @@
+{
+    "inbox": [
+       {
+          "id": "1",
+          "from": "abc@gmail.com",
+          "to": "user@gmail.com",
+          "time": "2018-02-24T18:25:43.511Z",
+          "subject": "Remainder"
+        },
+        {
+          "id": "2",
+          "from": "idm@outlook.com",
+          "to": "user@outlook.com",
+          "time": "2018-02-23T18:25:43.511Z",
+          "subject": "IBM - IDM"
+        }
+    ],
+    "mails": [
+       {
+          "id": "1",
+          "from": "abc@gmail.com",
+          "to": "user@gmail.com",
+          "subject": "Remainder",
+          "time": "2018-02-24T18:25:43.511Z",
+          "body": "Looking forward to see you"
+        },
+        {
+          "id": "2",
+          "from": "idm@outlook.com",
+          "to": "user@outlook.com",
+          "subject": "Google - IDM",
+          "time": "2018-02-23T18:25:43.511Z",
+          "body": "Can we talk?"
+        }
+    ]
+  }
+  
